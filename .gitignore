@@ -1,0 +1,22 @@
+#lib
+venv
+
+# Terraform
+infrastructure/.terraform/
+infrastructure/.terraform.lock.hcl
+infrastructure/lambda_package.zip
+infrastructure/layers/
+
+# Response files
+response.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

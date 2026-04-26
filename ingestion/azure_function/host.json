@@ -1,0 +1,15 @@
+{
+  "version": "info",
+  "extensions": {
+    "blob": {
+      "leases": {
+        "enabled": false
+      }
+    }
+  },
+  "logging": {
+    "logLevel": {
+      "default": "Information"
+    }
+  }
+}
